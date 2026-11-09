@@ -6,6 +6,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <br/>
 
@@ -30,6 +31,8 @@
 - [📊 Comparison Matrix at a Glance](#-comparison-matrix-at-a-glance)
 - [💡 Architectural Integration Patterns](#-architectural-integration-patterns)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -130,6 +133,26 @@ Contributions are warmly welcome! To propose a new open-source session tool or u
 2. 🔍 Verify the project is actively maintained (active releases or commits within the last 12 months).
 3. 🏷️ Ensure open-source entries include the correct GitHub star badge linked to its `/stargazers` page (`https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white`).
 4. 🚀 Submit a detailed Pull Request.
+
+---
+
+## 💖 Support
+
+Thank you for exploring this curated collection! Maintaining high-quality directories and keeping ecosystem tooling up to date takes continuous effort.
+
+If you found this repository helpful, please consider:
+- ⭐ **Starring** the repository on GitHub
+- 🍴 **Forking** and contributing additional tools or updates
+- 📢 **Sharing** this guide with colleagues, communities, and networks
+- ☕ **Buying a coffee / sponsoring** the author via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)
+
+Your support and encouragement help keep open-source knowledge accessible to everyone!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Test-Session-Lifecycle-State-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Test-Session-Lifecycle-State-Management&type=date&legend=top-left)
 
 ---
 
