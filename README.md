@@ -65,7 +65,7 @@ Commercial, cloud-hosted Test Session Lifecycle and State Management platforms. 
 
 Self-hosted, community-driven session lifecycle, recording, and state management tools. Sorted in descending order of GitHub star popularity.
 
-| Project | GitHub Stars | Primary Language / Stack | License | Core Focus & Architecture |
+| Project | GitHub_Stars | Primary Language / Stack | License | Core Focus & Architecture |
 |---|---|---|---|---|
 | **[JumpServer](https://github.com/jumpserver/jumpserver)** | [![JumpServer Stars](https://img.shields.io/github/stars/jumpserver/jumpserver?style=social&color=white)](https://github.com/jumpserver/jumpserver/stargazers) | Python, Django, Docker | GPL-3.0 | Centralized bastion host and Privileged Access Management (PAM) gateway. Provides web-based terminal and remote desktop access for SSH, RDP, Telnet, VNC, and database connections with full session recording, real-time monitoring, command filtering, and multi-factor authentication. |
 | **[Teleport Community](https://github.com/gravitational/teleport)** | [![Teleport Stars](https://img.shields.io/github/stars/gravitational/teleport?style=social&color=white)](https://github.com/gravitational/teleport/stargazers) | Go, Rust | AGPL-3.0 | Identity-native infrastructure access plane. Replaces static credentials with short-lived X.509 certificates and SSH credentials. Automatically logs and records every SSH, Kubernetes, Windows RDP, and web application session with instant audit event streaming and web player replay. |
@@ -131,7 +131,7 @@ Contributions are warmly welcome! To propose a new open-source session tool or u
 
 1. 🍴 Fork this repository.
 2. 🔍 Verify the project is actively maintained (active releases or commits within the last 12 months).
-3. 🏷️ Ensure open-source entries include the correct GitHub star badge linked to its `/stargazers` page (`https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white`).
+3. 🏷️ Ensure open-source entries include the correct GitHub Stars_Badge linked to its `/stargazers` page (`https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white`).
 4. 🚀 Submit a detailed Pull Request.
 
 ---
